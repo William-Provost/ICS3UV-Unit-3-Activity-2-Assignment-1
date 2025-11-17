@@ -20,7 +20,7 @@ func main() {
     fmt.Println("Number Rounding Program")
     fmt.Println("------------------------")
 
-		// Process and Output
+    // Process and Output
     fmt.Printf("Original: %8.4f | Field size: 10 | 3 decimal places -> %10.3f\n", num1, num1)
     fmt.Printf("Original: %8.4f | Field size: 8  | 5 decimal places -> %8.5f\n", num2, num2)
     fmt.Printf("Original: %8.4f | Field size: 6  | 1 decimal place  -> %6.1f\n", num3, num3)
